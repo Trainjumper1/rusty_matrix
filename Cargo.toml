@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "app",
+    "extra/special",
+    "training/chapter-1/hello_cargo",
+    "training/chapter-2/guessing_game"
+]
