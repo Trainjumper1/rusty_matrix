@@ -6,4 +6,6 @@ members = [
     "extra/special",
     "training/chapter-1/hello_cargo",
     "training/chapter-2/guessing_game",
-    "training/chapter-3/data-types", "training/chapter-3/functions"]
+    "training/chapter-3/data-types",
+    "training/chapter-3/functions"
+    ]
